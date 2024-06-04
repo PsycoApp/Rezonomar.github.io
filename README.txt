@@ -1,1 +1,0 @@
-Este es una página web para poder informarse sobre los difetentes males que las personas tienen sobre enfermedades mentales.
