@@ -1,0 +1,38 @@
+.cabezera
+{
+position:relative; 
+top:0%;
+left:0%;
+height:100px; 
+color:rgb(0, 255, 106); 
+background-color: #2A32A9;
+text-align: center;
+}
+
+.cuerpo
+{
+    position: relative;
+    top:0%;
+    left: 0%;
+    height: 900px;
+    width: 100%;
+    background-color: antiquewhite;
+}
+
+.cuadrado1
+{
+   
+   background-color: #2A32A9;
+   height: 100px;
+   width: 100px;
+   
+}
+
+.cuadrado2
+{
+   
+    background-color: #C9C8FF;
+    height: 100px;
+    width: 100px;
+
+}
